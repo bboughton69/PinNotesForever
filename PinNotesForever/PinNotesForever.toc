@@ -1,0 +1,14 @@
+## Interface: 16001
+## Title: PinNotes Forever
+## Notes: Create, name, and save custom map pins across all your characters in WoW Forever.
+## Author: PinNotes Forever
+## Version: 0.1.0-beta
+## SavedVariables: PinNotesForeverDB
+
+Database.lua
+Core.lua
+MapPins.lua
+MapPins.xml
+WaypointEditor.lua
+WaypointList.lua
+Options.lua

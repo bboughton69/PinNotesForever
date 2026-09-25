@@ -1,0 +1,8 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <Frame
+        name="PinNotesForeverMapPinTemplate"
+        mixin="PinNotesForeverMapPinMixin"
+        virtual="true">
+        <Size x="26" y="26"/>
+    </Frame>
+</Ui>
